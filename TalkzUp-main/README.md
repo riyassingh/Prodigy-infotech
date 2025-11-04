@@ -68,8 +68,6 @@ Ensure you have the following installed:
    cd client
    npm start
    ```
-## 👤 Author  
 
-Developed by *Mahi Jadaun* 🚀  
 
 Feel free to *contribute, **suggest improvements, or **report issues*! 😊
